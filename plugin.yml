@@ -1,0 +1,11 @@
+name: CompassPlugin
+main: no.atc.floyd.bukkit.compass.CompassPlugin
+version: 1.1
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+             Simple compass
+commands:
+  compass:
+    description: Get or set current heading
+    usage: /<command> [n|ne|e|se|s|sw|w|nw]
