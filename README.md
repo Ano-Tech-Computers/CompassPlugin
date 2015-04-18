@@ -1,0 +1,2 @@
+# CompassPlugin
+Simple compass
