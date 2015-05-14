@@ -1,0 +1,11 @@
+name: "${project.name}"
+main: no.atc.floyd.bukkit.compass.CompassPlugin
+version: "${project.version}"
+website: "${project.url}"
+author: FloydATC
+description: "${project.description}"
+
+commands:
+  compass:
+    description: Get or set current heading
+    usage: /<command> [n|ne|e|se|s|sw|w|nw]
